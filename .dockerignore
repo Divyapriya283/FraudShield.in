@@ -1,0 +1,6 @@
+data/*.csv
+models/
+__pycache__/
+docs/
+screenshots/
+.git/
